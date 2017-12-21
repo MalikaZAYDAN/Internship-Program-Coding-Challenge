@@ -1,4 +1,4 @@
-# Internship-Program-Coding-Challenge
+# Internship-Program-Coding-Challenge: Web application
 
 Idea of the app
 The task is to implement a small Facebook-powered web app. The goal of the app is to let the user export photos from Facebook to Firebase.
@@ -13,3 +13,13 @@ Frontend:
 Angular
 
 I am not yet developped the backend side.
+
+# First Version
+First version of the app is in: version1 brunch
+The goal of this first version is to connect to an account Facebook and recover user name.
+I hosted my app using Firebase url: https://testfirebase-a9b03.firebaseapp.com/. Using a loggin Facebook app called:CodingChalenge.
+
+# the latest version 
+the latest version that not yet finished is in the master brunch.
+
+
