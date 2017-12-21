@@ -15,7 +15,7 @@ Angular
 I am not yet developped the backend side.
 
 # First Version
-First version of the app is in: version1 brunch
+First version of the app is in: version1 brunch.
 The goal of this first version is to connect to an account Facebook and recover user name.
 I hosted my app using Firebase url: https://testfirebase-a9b03.firebaseapp.com/. Using a loggin Facebook app called:CodingChalenge.
 
